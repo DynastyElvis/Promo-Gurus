@@ -3123,6 +3123,7 @@ input::-moz-focus-inner {
     position: absolute;
     left: 8rem;
     top: calc(50% - 2px);
+
 }
 
 .s-header__logo a {
@@ -3130,12 +3131,14 @@ input::-moz-focus-inner {
     border: none;
     padding: 0;
     outline: 0;
+    
 }
 
 .s-header__logo img {
-    width: 68px;
-    height: 10px;
+    width: 120px;
+    height: 60px;
     margin-bottom: 0;
+   
 }
 
 
