@@ -2917,7 +2917,7 @@ input::-moz-focus-inner {
 .section-title h3 {
     z-index: 2;
     font-weight: 500;
-    color: var(--color-1);
+    color: #f555bc;
     padding-bottom: 2em;
     margin-top: 0;
     position: absolute;
