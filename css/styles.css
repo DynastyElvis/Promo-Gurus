@@ -1624,7 +1624,7 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
     font-family: var(--font-2);
     font-weight: 500;
     font-style: normal;
-    color: var(--color-text-dark);
+    color: #0c134b;
     -webkit-font-variant-ligatures: common-ligatures;
     font-variant-ligatures: common-ligatures;
     text-rendering: optimizeLegibility;
@@ -2427,9 +2427,9 @@ button.btn--primary,
 input[type="submit"].btn--primary, 
 input[type="reset"].btn--primary, 
 input[type="button"].btn--primary {
-    background: var(--color-btn-primary);
-    border-color: var(--color-btn-primary);
-    color: var(--color-btn-primary-text);
+    background: #fab951;
+    border-color: #fab951;
+    color: #101661;
 }
 
 .btn.btn--primary:hover, 
@@ -3480,7 +3480,7 @@ input::-moz-focus-inner {
  *
  * ------------------------------------------------------------------- */
 .s-hero {
-    background-color: #121417;
+    background-color: #060927;
     width: 100%;
     height: 100vh;
     min-height: calc(25.5 * var(--space));
@@ -3489,7 +3489,7 @@ input::-moz-focus-inner {
 }
 
 .s-hero__bg {
-    background-image: url(../images/hero-bg.jpg);
+    background-image: url(../images/Promo\ Dash.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -3543,7 +3543,7 @@ input::-moz-focus-inner {
     font-weight: 600;
     letter-spacing: -.04em;
     line-height: 1;
-    color: var(--color-1);
+    color: #fab951;
     margin-bottom: 0;
     position: relative;
 }
@@ -3639,7 +3639,7 @@ input::-moz-focus-inner {
     display: block;
     height: 9.6rem;
     width: 9.6rem;
-    background-color: var(--color-1);
+    background-color:#fab951;
     -webkit-transition: background-color 0.3s ease-in-out, color 0.3s ease-in-out;
     transition: background-color 0.3s ease-in-out, color 0.3s ease-in-out;
     color: white;
@@ -4014,7 +4014,7 @@ html.no-csstransitions .s-hero__content {
  *
  * ------------------------------------------------------------------- */
 .s-about {
-    background-color: var(--color-bg);
+    background-color: #fab951;
     padding-top: calc(7 * var(--space));
     padding-bottom: 0;
     position: relative;
