@@ -4894,7 +4894,7 @@ html.no-csstransitions .s-hero__content {
     line-height: 6.4rem;
     text-align: center;
     border-radius: 50%;
-    background-color: var(--color-gray-19) !important;
+    background-color: #782e88 !important;
     -webkit-transition: all .3s;
     transition: all .3s;
     position: relative;
