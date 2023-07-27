@@ -1570,7 +1570,7 @@ html, body {
 }
 
 body {
-    background: var(--color-body);
+    background: white;
     font-family: var(--font-1);
     font-size: var(--text-size);
     font-style: normal;
@@ -4970,3 +4970,5 @@ html.no-csstransitions .s-hero__content {
         font-size: 1.4rem;
     }
 }
+
+
