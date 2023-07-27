@@ -4475,7 +4475,7 @@ html.no-csstransitions .s-hero__content {
  *
  * ------------------------------------------------------------------- */
 .s-clients {
-    background-color: var(--color-bg);
+    background-color: #fab951;
     padding-top: calc(6 * var(--space));
     padding-bottom: var(--vspace-4);
     position: relative;
@@ -4972,3 +4972,9 @@ html.no-csstransitions .s-hero__content {
 }
 
 
+/* carousel for clients */
+
+
+
+
+/* carousel for clients */
