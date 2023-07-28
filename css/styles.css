@@ -4700,7 +4700,7 @@ html.no-csstransitions .s-hero__content {
  *
  * ------------------------------------------------------------------- */
 .s-contact {
-    background-color: var(--color-1);
+    background-color: #0c134b;
     padding-top: calc(6 * var(--space));
     padding-bottom: var(--vspace-2);
 }
