@@ -4762,15 +4762,15 @@ html.no-csstransitions .s-hero__content {
 .s-footer {
     padding-top: var(--vspace-2);
     padding-bottom: var(--vspace-4);
-    color: white;
+    color: #0c134b;
 }
 
 .s-footer a {
-    color: white;
+    color: #0c134b;
 }
 
 .s-footer .h6 {
-    color: black;
+    color: #fab951;
     margin-top: 0;
 }
 
@@ -4806,15 +4806,15 @@ html.no-csstransitions .s-hero__content {
 }
 
 .s-footer__block--end .btn {
-    background-color: white;
-    border: .2rem solid white;
-    color: black;
+    background-color: #fab951;
+    border: .2rem solid #0c134b;
+    color: #0c134b;
     margin-right: 0;
     margin-bottom: var(--vspace-1);
 }
 
 .s-footer__block--end .btn:hover, .s-footer__block--end .btn:focus {
-    background-color: var(--color-gray-19);
+    background-color: #0c134b;
     border: 0.2rem solid var(--color-gray-19);
     color: white;
 }
@@ -4845,7 +4845,7 @@ html.no-csstransitions .s-hero__content {
 
 .ss-copyright a {
     display: inline-block;
-    color: white;
+    color: #fab951;
     border-bottom: 1px dotted rgba(255, 255, 255, 0.2);
 }
 
